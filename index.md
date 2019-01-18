@@ -8,6 +8,4 @@
 
 ### Kinola 1.0.
 
-```markdown
-[Link](http://picoscar.com)
-```
+![Image](https://picoscar.github.io/kinolatv/KINOLA%201.0%20small.png)
